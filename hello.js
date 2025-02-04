@@ -1,0 +1,1 @@
+console.log("Medical EHR Journey Begins!");
